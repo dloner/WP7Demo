@@ -19,6 +19,8 @@ namespace PhoneAppDemo
         public MainPage()
         {
             InitializeComponent();
+
+            // TODO:
         }
     }
 }
