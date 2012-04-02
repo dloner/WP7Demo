@@ -20,6 +20,9 @@ namespace PhoneAppDemo
         {
             InitializeComponent();
 
+
+
+            Demo
             // TODO:
         }
     }
