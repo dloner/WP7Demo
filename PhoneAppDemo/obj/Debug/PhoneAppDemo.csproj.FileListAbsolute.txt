@@ -1,0 +1,13 @@
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\ApplicationIcon.png
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\Background.png
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.dll
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.pdb
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\AppManifest.xaml
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.xap
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\App.g.i.cs
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\MainPage.g.i.cs
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\PhoneAppDemo.g.resources
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\PhoneAppDemo.dll
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\PhoneAppDemo.pdb
+c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\XapCacheFile.xml
