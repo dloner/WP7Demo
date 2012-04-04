@@ -22,7 +22,8 @@ namespace PhoneAppDemo
 
 
 
-            Demo
+            MessageBox.Show("Started");
+//Demo
             // TODO:
         }
     }
