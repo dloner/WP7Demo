@@ -11,3 +11,16 @@ c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\o
 c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\PhoneAppDemo.dll
 c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\PhoneAppDemo.pdb
 c:\users\saint\documents\visual studio 2010\Projects\PhoneAppDemo\PhoneAppDemo\obj\Debug\XapCacheFile.xml
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\ApplicationIcon.png
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\Background.png
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.dll
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.pdb
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\AppManifest.xaml
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\Bin\Debug\PhoneAppDemo.xap
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\App.g.i.cs
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\PhoneAppDemo.g.resources
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\PhoneAppDemo.dll
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\PhoneAppDemo.pdb
+C:\Users\saint\Documents\Visual Studio 2010\Projects\WP7Demo\PhoneAppDemo\obj\Debug\XapCacheFile.xml
